@@ -1,2 +1,3 @@
 # hello-world
 Follow the github-guide instructions
+This is just some text to see how branching, merging and so on work out...
